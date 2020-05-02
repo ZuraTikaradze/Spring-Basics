@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5520abf-a92b-4104-8b06-2e6cf0e91e98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bBA6zLcKZO0BQ564rjpkZOh8fN" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ge/cse/di/service" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ge.cse.di.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BTU-JAVA - 2\8-SpringCore\lab\ioc-di-spring-mvn\src\main\java\ge\cse\di\service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ge.cse.di.Application" />
+      <module name="ioc-di-spring-mvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ge.cse.di.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5520abf-a92b-4104-8b06-2e6cf0e91e98" name="Default Changelist" comment="" />
+      <created>1588094941353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588094941353</updated>
+      <workItem from="1588094943978" duration="17316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="613" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1588172635819">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="613" y="142" key="#com.intellij.ide.util.MemberChooser/78.0.1458.864@78.0.1458.864" timestamp="1588172635819" />
+    <state width="1415" height="274" key="GridCell.Tab.0.bottom" timestamp="1588172675775">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="274" key="GridCell.Tab.0.bottom/78.0.1458.864@78.0.1458.864" timestamp="1588172675775" />
+    <state width="1415" height="274" key="GridCell.Tab.0.center" timestamp="1588172675775">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="274" key="GridCell.Tab.0.center/78.0.1458.864@78.0.1458.864" timestamp="1588172675775" />
+    <state width="1415" height="274" key="GridCell.Tab.0.left" timestamp="1588172675775">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="274" key="GridCell.Tab.0.left/78.0.1458.864@78.0.1458.864" timestamp="1588172675775" />
+    <state width="1415" height="274" key="GridCell.Tab.0.right" timestamp="1588172675775">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="274" key="GridCell.Tab.0.right/78.0.1458.864@78.0.1458.864" timestamp="1588172675775" />
+    <state x="248" y="106" key="new project wizard" timestamp="1588168144198">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="248" y="106" key="new project wizard/78.0.1458.864@78.0.1458.864" timestamp="1588168144198" />
+    <state x="470" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1588102300763">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="470" y="181" width="672" height="678" key="search.everywhere.popup/78.0.1458.864@78.0.1458.864" timestamp="1588102300763" />
+  </component>
+</project>
